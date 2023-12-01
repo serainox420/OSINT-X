@@ -1,3 +1,4 @@
+```
  ____  _   _ _____ ____  _     ___   ____ _  __
 / ___|| | | | ____|  _ \| |   / _ \ / ___| |/ /
 \___ \| |_| |  _| | |_) | |  | | | | |   | ' / 
@@ -54,3 +55,4 @@ options:
   --browse, -b          Browse to all results on default browser.
   --local, -l           Force the use of the local data.json file.
   --nsfw                Include checking of NSFW sites from default list.
+```
