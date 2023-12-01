@@ -1,2 +1,4 @@
-# OSINT-X
-Neat collection of OSINT tools &amp; frameworks for Linux
+# PHOTON
+`photon URL`
+# SHERLOCK
+`sherlock NICKNAME`
