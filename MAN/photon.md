@@ -1,3 +1,4 @@
+```
       ____  __          __
      / __ \/ /_  ____  / /_____  ____
     / /_/ / __ \/ __ \/ __/ __ \/ __ \
@@ -45,3 +46,4 @@ options:
   --update              update photon
   --only-urls           only extract URLs
   --wayback             fetch URLs from archive.org as seeds
+```
