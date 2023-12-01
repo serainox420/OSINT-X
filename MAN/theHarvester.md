@@ -1,3 +1,4 @@
+```
 Read proxies.yaml from /home/SilverX/.theHarvester/proxies.yaml
 *******************************************************************
 *  _   _                                            _             *
@@ -54,3 +55,4 @@ options:
                         rocketreach, securityTrails, sitedossier,
                         subdomaincenter, subdomainfinderc99, threatminer,
                         tomba, urlscan, virustotal, yahoo, zoomeye
+```
